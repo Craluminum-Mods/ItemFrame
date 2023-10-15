@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "universal",
+    "modid": "itemframe",
+    "name": "Item Frame",
+    "description": "Placeable item frame that displays item or block stored inside it",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.8"
+    }
+}

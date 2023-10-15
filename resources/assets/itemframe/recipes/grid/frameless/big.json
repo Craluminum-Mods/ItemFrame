@@ -1,0 +1,14 @@
+[
+    {
+        "ingredientPattern": "IP",
+        "ingredients": {
+            "I": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "small-none", "label": "small" } },
+            "P": { "type": "item", "code": "game:paper-parchment" }
+        },
+        "width": 1,
+        "height": 2,
+        "shapeless": true,
+        "recipeGroup": 1,
+        "output": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "big-none", "label": "big" } }
+    }
+]

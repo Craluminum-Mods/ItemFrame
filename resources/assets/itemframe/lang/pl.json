@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Ramka na przedmiot",
+    "block-glowitemframe": "Świecąca ramka na przedmiot",
+    "blockdesc-itemframe": "Wyświetla przedmiot lub blok, który jest w nim przechowywany, wymaga pigmentu.",
+    "size": "Rozmiar: {0}",
+    "big": "Duży",
+    "small": "Mały"
+}

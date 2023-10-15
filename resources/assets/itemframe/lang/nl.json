@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Voorwerplijst",
+    "block-glowitemframe": "Gloeiende voorwerplijst",
+    "blockdesc-itemframe": "Geeft item of blok weer dat erin is opgeslagen, vereist pigment.",
+    "size": "Maat: {0}",
+    "big": "Groot",
+    "small": "Klein"
+}

@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Cadre",
+    "block-glowitemframe": "Cadre luisant",
+    "blockdesc-itemframe": "Affiche l'objet ou le bloc qui est stocké à l'intérieur, nécessite un pigment.",
+    "size": "Taille: {0}",
+    "big": "Grandes",
+    "small": "Petit"
+}

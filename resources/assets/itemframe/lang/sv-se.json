@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Föremålsram",
+    "block-glowitemframe": "Självlysande föremålsram",
+    "blockdesc-itemframe": "Visar objekt eller block som lagras inuti den, kräver pigment.",
+    "size": "Storlek: {0}",
+    "big": "Stor",
+    "small": "Liten"
+}

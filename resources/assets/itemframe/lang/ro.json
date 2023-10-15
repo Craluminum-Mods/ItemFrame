@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Ramă de obiect",
+    "block-glowitemframe": "Ramă strălucitoare de obiecte",
+    "blockdesc-itemframe": "Afișează elementul sau blocul care este stocat în interiorul său, necesită pigment.",
+    "size": "Dimensiune: {0}",
+    "big": "Mare",
+    "small": "Mici"
+}

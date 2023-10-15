@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Moldura",
+    "block-glowitemframe": "Moldura brilhante",
+    "blockdesc-itemframe": "Apresenta o item ou bloco que está armazenado no seu interior, requer pigmento.",
+    "size": "Tamanho: {0}",
+    "big": "Grande",
+    "small": "Pequeno"
+}

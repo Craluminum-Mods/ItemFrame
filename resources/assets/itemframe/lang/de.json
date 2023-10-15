@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Rahmen",
+    "block-glowitemframe": "Leuchtrahmen",
+    "blockdesc-itemframe": "Zeigt den Gegenstand oder Block an, der darin aufbewahrt wird, erfordert Pigment.",
+    "size": "Größe: {0}",
+    "big": "Groß",
+    "small": "Klein"
+}

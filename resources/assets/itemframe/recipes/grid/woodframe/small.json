@@ -1,0 +1,13 @@
+[
+    {
+        "ingredientPattern": "_P_,PIP,_P_",
+        "ingredients": {
+            "I": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "small-none", "label": "small" } },
+            "P": { "type": "item", "code": "game:plank-*", "name": "wood", "allowedVariants": ["aged", "birch", "oak", "maple", "pine", "acacia", "kapok", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"] }
+        },
+        "width": 3,
+        "height": 3,
+        "shapeless": true,
+        "output": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "small-wood-{wood}", "label": "small" } }
+    }
+]

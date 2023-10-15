@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "物品展示框",
+    "block-glowitemframe": "荧光物品展示框",
+    "blockdesc-itemframe": "显示储存在其中的物品或块，需要颜料。",
+    "size": "尺寸: {0}",
+    "big": "大",
+    "small": "小型"
+}

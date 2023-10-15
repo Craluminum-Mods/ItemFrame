@@ -1,0 +1,10 @@
+{
+    "block-itemframe": "Item Frame",
+    "block-glowitemframe": "Glow Item Frame",
+    "blockdesc-itemframe": "Displays item or block that is stored inside it, requires pigment.",
+    "blockdesc-glowitemframe": "CREATIVE ONLY",
+    "size": "Size: {0}",
+    "big": "Big",
+    "small": "Small",
+    "game:tabname-itemframe": "Item Frame Mod"
+}

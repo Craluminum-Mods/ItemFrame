@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Rám",
+    "block-glowitemframe": "Žiariaci rám",
+    "blockdesc-itemframe": "Zobrazuje predmet alebo blok, ktorý je v ňom uložený, vyžaduje pigment.",
+    "size": "Veľkosť: {0}",
+    "big": "Veľký",
+    "small": "Malé"
+}

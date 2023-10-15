@@ -1,0 +1,13 @@
+[
+    {
+        "ingredientPattern": "IP",
+        "ingredients": {
+            "I": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "small-none", "label": "small" } },
+            "P": { "type": "item", "code": "game:ingot-*", "name": "metal", "allowedVariants": ["bismuth", "bismuthbronze", "blackbronze", "brass", "copper", "gold", "iron", "meteoriciron", "lead", "molybdochalkos", "silver", "steel", "tinbronze"] }
+        },
+        "width": 1,
+        "height": 2,
+        "shapeless": true,
+        "output": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "small-metal-{metal}", "label": "small" } }
+    }
+]

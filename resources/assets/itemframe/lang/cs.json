@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Rámeček",
+    "block-glowitemframe": "Světelný rámeček",
+    "blockdesc-itemframe": "Zobrazuje položku nebo blok, který je v něm uložen, vyžaduje pigment.",
+    "size": "Velikost: {0}",
+    "big": "Velký",
+    "small": "Malé"
+}

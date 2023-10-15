@@ -1,0 +1,13 @@
+[
+    {
+        "ingredientPattern": "SSS,SPS,SSS",
+        "ingredients": {
+            "P": { "type": "item", "code": "game:paper-parchment" },
+            "S": { "type": "item", "code": "game:stick" }
+        },
+        "width": 3,
+        "height": 3,
+        "shapeless": true,
+        "output": { "type": "block", "code": "itemframe:itemframe", "attributes": { "type": "small-none", "label": "small" } }
+    }
+]

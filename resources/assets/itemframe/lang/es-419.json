@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Marco",
+    "block-glowitemframe": "Marco luminoso",
+    "blockdesc-itemframe": "Muestra el objeto o bloque que se almacena en su interior, requiere pigmento.",
+    "size": "Talla: {0}",
+    "big": "Gran",
+    "small": "Pequeño"
+}

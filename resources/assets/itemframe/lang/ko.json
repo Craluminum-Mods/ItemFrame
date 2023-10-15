@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "아이템 액자",
+    "block-glowitemframe": "아이템 액자",
+    "blockdesc-itemframe": "안에 저장된 아이템 또는 블록을 표시하며 안료가 필요합니다.",
+    "size": "크기: {0}",
+    "big": "큰",
+    "small": "작은"
+}

@@ -1,0 +1,8 @@
+{
+    "block-itemframe": "Cornice",
+    "block-glowitemframe": "Cornice luminescente",
+    "blockdesc-itemframe": "Visualizza l'elemento o il blocco memorizzato al suo interno, richiede un pigmento.",
+    "size": "Dimensione: {0}",
+    "big": "Grande",
+    "small": "Piccolo"
+}
